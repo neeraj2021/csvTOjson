@@ -1,0 +1,8 @@
+*.sln
+*.csv
+*.json
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+*.exe
+.vs
